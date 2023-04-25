@@ -1,0 +1,162 @@
+#divisoria{
+    border-color: #0db92a;
+    border-width: 3px;
+}
+
+#divlogo{
+    text-align: center;
+    text-justify: center;
+    padding: 15px 15px 0px 15px ;
+}
+
+#conteudoWRZ{
+    text-align: left;
+    padding: 10px;
+}
+
+#conteudoWRZ2{
+    text-align: left;
+    text-justify: left;
+    padding: 10px;
+}
+
+#gifwarzone{
+    text-align: center;
+    text-justify: center;
+    padding: 5px;
+    margin: 0px;    
+}
+
+#gifsWRZ{
+    text-align: center;
+    text-justify: center;
+}
+
+#rodape{
+    text-align: center;
+    color: rgb(225, 219, 219);
+}
+
+
+
+.imglogo{
+    height: 100px;
+    width: 100px;
+}
+
+.ulprincipal{
+    color: white;
+    font-size: 25px;
+}
+
+.Logostable{
+    height: 400px;
+    width: 610px;
+
+}
+
+.Logostable:hover{
+    outline:  double rgb(12, 191, 33) ;
+}
+
+.imgcenter {
+    text-align: center;
+    text-justify: center;
+   
+}
+
+.gifWRZ{
+    text-align: left;
+    text-justify: left;
+    margin: 5px;
+    padding: 5px;
+}
+
+.gifWRZ2{
+    text-align: right;
+    text-justify: right;
+    margin: 5px;
+    padding: 5px;
+}
+
+.graficoWRZ{
+    text-align: left;
+    text-justify: left;
+    padding: 3px;
+    border: 3px outset rgb(125, 117, 117);
+}
+
+.tblWRZ{
+    background-color: antiquewhite;
+    font-size: 10px;
+    text-decoration: none;
+    
+}
+
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+h1{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 40px;
+    color: white; 
+    margin: 3px;
+    padding: 2px;
+}
+
+h3 { 
+    color: white;
+    margin: 3px;
+    padding: 2px;
+}
+
+h4{
+    color: rgb(225, 219, 219);
+}
+
+p {
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+th{
+    color: white;
+    text-decoration: none;
+}
+
+td{
+    color: white;
+    text-decoration: none;
+}
+
+tr{
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    border: 2px outset rgb(36, 141, 51);
+}
+
+ul {
+    color: white;
+}
+
+.textcenter{
+    text-align: center;
+}

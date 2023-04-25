@@ -5,7 +5,6 @@
 
 #divlogo{
     text-align: center;
-    text-justify: center;
     padding: 15px 15px 0px 15px ;
 }
 
@@ -16,20 +15,17 @@
 
 #conteudoWRZ2{
     text-align: left;
-    text-justify: left;
     padding: 10px;
 }
 
 #gifwarzone{
     text-align: center;
-    text-justify: center;
     padding: 5px;
     margin: 0px;    
 }
 
 #gifsWRZ{
     text-align: center;
-    text-justify: center;
 }
 
 #rodape{
@@ -61,27 +57,23 @@
 
 .imgcenter {
     text-align: center;
-    text-justify: center;
    
 }
 
 .gifWRZ{
     text-align: left;
-    text-justify: left;
     margin: 5px;
     padding: 5px;
 }
 
 .gifWRZ2{
     text-align: right;
-    text-justify: right;
     margin: 5px;
     padding: 5px;
 }
 
 .graficoWRZ{
     text-align: left;
-    text-justify: left;
     padding: 3px;
     border: 3px outset rgb(125, 117, 117);
 }
@@ -159,4 +151,9 @@ ul {
 
 .textcenter{
     text-align: center;
+}
+
+table {
+    border:1;
+    width:500;
 }

@@ -33,8 +33,6 @@
     color: rgb(225, 219, 219);
 }
 
-
-
 .imglogo{
     height: 100px;
     width: 100px;
@@ -79,6 +77,7 @@
 }
 
 .tblWRZ{
+    border: 1px;
     background-color: antiquewhite;
     font-size: 10px;
     text-decoration: none;

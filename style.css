@@ -156,3 +156,11 @@ ul {
 .p-RE4 {
     text-align: center;
 }
+
+#leonleft {
+    text-align: left;
+}
+
+#leonright {
+    text-align: right;
+}
